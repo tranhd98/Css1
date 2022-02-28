@@ -1,0 +1,10 @@
+a{
+    color: rgba(255, 255, 255, .6);
+    text-decoration: none;
+}
+.container-fluid{
+    background-color: #272e31;
+    color: rgba(255, 255, 255, .6);
+    width: 100%;
+    margin: 0;
+}
